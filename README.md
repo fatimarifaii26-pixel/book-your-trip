@@ -1,8 +1,10 @@
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://i.pinimg.com/736x/4b/74/60/4b74602ca256953f4007a791056bb795.jpg" class="lin">
     <title>Book A Trip</title>
 
     <style>
@@ -18,7 +20,10 @@ body{
     background-attachment:fixed;
     font-family:'Franklin Gothic Medium','Arial Narrow',Arial,sans-serif;
 }
-
+.lin{
+    width: 10px;
+    height: 10px;
+}
 form{
     position:absolute;
     left:50px;
@@ -58,7 +63,7 @@ table{
     width:100%;
     margin-top:15px;
     border-collapse:collapse;
-    background : none;
+    background: none;
 }
 
 .colo{
