@@ -54,6 +54,7 @@ input,
 button{
     border-radius:40px;
     width:300px;
+    height:10px;
     margin:10px 0;
     margin-left:30px;
     padding:10px;
