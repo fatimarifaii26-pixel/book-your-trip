@@ -35,7 +35,9 @@ form{
     background:rgba(255,255,255,0.67);
     border-radius:20px;
 }
-
+table{
+    background: none;
+}
 input,
 button{
     width:100%;
