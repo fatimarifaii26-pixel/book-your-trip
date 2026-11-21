@@ -65,7 +65,7 @@ table{
     width:100%;
     margin-top:15px;
     border-collapse:collapse;
-    background: none;
+    background-color: none;
 }
 
 .colo{
